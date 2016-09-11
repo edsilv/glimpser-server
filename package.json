@@ -1,0 +1,25 @@
+{
+  "name": "glimpser-server",
+  "version": "1.0.0",
+  "description": "talk to omeka api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsilv/glimpser-server.git"
+  },
+  "author": "Edward Silverton <e.silverton@gmail.com> (http://edsilv.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edsilv/glimpser-server/issues"
+  },
+  "homepage": "https://github.com/edsilv/glimpser-server#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "express-json": "^1.0.0",
+    "http": "0.0.0"
+  }
+}
